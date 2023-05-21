@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ToThangGTVT
 - 👀 I’m interested in money
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning swift iOS
 - 💞️ I’m looking to collaborate on mobile app
 - 📫 How to reach me ...
 
